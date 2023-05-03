@@ -45,7 +45,7 @@ class App extends React.Component {
     return (
       <div className="App">
         <div className="App-header">
-          <h1>Header</h1>
+          <h1>Mi casa es tu casa</h1>
         </div>
         <Messages
           messages={this.state.messages}
