@@ -10,12 +10,12 @@ class Input extends Component {
   onChange(e) {
     this.setState({text: e.target.value});
   }
-
   onSubmit(e) {
     e.preventDefault();
     this.setState({text: ""});
     this.props.onSendMessage(this.state.text);
   }
+
 
   render() {
     return (
@@ -26,13 +26,15 @@ class Input extends Component {
             value={this.state.text}
             type="text"
             placeholder="Enter your message and press ENTER"
+            // bilo autofocus="true"
             autoFocus={true}
           />
-          <button>Send</button>
+          <button className="btn-send">Send</button>
         </form>
       </div>
     );
   }
+
 
 }
 
