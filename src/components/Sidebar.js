@@ -28,8 +28,8 @@ class Sidebar extends React.Component{
                 </div>
                 <div className="sd-body">
                     <ul>
-                        <li><Link to="/" className="sd-link">Chat</Link></li>
-                        <li><Link to="/about" className="sd-link">About</Link></li>
+                        <li><Link to="/moj-zadatak/" className="sd-link">Chat</Link></li>
+                        <li><Link to="/moj-zadatak/about" className="sd-link">About</Link></li>
                     </ul>
                 </div>
             </div>
