@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/moj-zadatak/static/css/main.c5407471.css",
-    "main.js": "/moj-zadatak/static/js/main.0767a432.js",
+    "main.js": "/moj-zadatak/static/js/main.8006e071.js",
     "index.html": "/moj-zadatak/index.html",
     "main.c5407471.css.map": "/moj-zadatak/static/css/main.c5407471.css.map",
-    "main.0767a432.js.map": "/moj-zadatak/static/js/main.0767a432.js.map"
+    "main.8006e071.js.map": "/moj-zadatak/static/js/main.8006e071.js.map"
   },
   "entrypoints": [
     "static/css/main.c5407471.css",
-    "static/js/main.0767a432.js"
+    "static/js/main.8006e071.js"
   ]
 }
