@@ -1,11 +1,13 @@
 .login-form {
     display: flex;
     flex-direction: column;
-    background-color: lightgray;
+    background-color: magenta;
     border-radius: 20px;
     margin-top: 2rem;
     justify-content: center;
     align-items: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+  
   }
   .login-form > * {
     margin-top: 2rem;
@@ -13,4 +15,8 @@
   .login-btn {
     margin-bottom: 2rem;
     width: 6rem;
+  }
+  .container {
+    background-color: yellow;
+    border-radius: 30px;
   }

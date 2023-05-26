@@ -7,13 +7,13 @@ const Header = (props) =>{
         {isLoggedIn && 
         <div className="App-header">
         <button className='sidebar-btn' onClick={props.toggleSidebar}>Sidebar</button>
-        <h1>{props.username}'s Chat Room</h1>
-        <button onClick={props.handleLogout}>Logout</button>
+        <h1>{props.username}'s Tinder Room</h1>
+        <button onClick={props.handleLogout}>NAPOLJE</button>
       </div>}
 
       {!isLoggedIn &&  <div className="App-header">
         <div></div>
-        <h1>Chat Application</h1>
+        <h1>Tinder </h1>
         {/* Prazan div služi za flex pozicioniranje elemenata */}
         <div></div>
       </div>}
