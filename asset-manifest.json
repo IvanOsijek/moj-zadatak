@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/moj-zadatak/static/css/main.c5407471.css",
-    "main.js": "/moj-zadatak/static/js/main.8006e071.js",
+    "main.css": "/moj-zadatak/static/css/main.20f8a2d3.css",
+    "main.js": "/moj-zadatak/static/js/main.d095c4d2.js",
     "index.html": "/moj-zadatak/index.html",
-    "main.c5407471.css.map": "/moj-zadatak/static/css/main.c5407471.css.map",
-    "main.8006e071.js.map": "/moj-zadatak/static/js/main.8006e071.js.map"
+    "main.20f8a2d3.css.map": "/moj-zadatak/static/css/main.20f8a2d3.css.map",
+    "main.d095c4d2.js.map": "/moj-zadatak/static/js/main.d095c4d2.js.map"
   },
   "entrypoints": [
-    "static/css/main.c5407471.css",
-    "static/js/main.8006e071.js"
+    "static/css/main.20f8a2d3.css",
+    "static/js/main.d095c4d2.js"
   ]
 }
